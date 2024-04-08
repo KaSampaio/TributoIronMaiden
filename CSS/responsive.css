@@ -1,0 +1,65 @@
+@media (max-width: 1280px){
+    .container{
+        margin: 60px;
+        padding: 10px 25px;
+    }
+}   
+
+@media (max-width: 688px){
+    .main_title{
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .main_paragraph{
+        font-size: 12px;
+    }
+
+    figcaption{
+        font-size: 12px;
+    }
+
+    .biography-container h2{
+        font-size: 20px;
+    }
+
+    .biography-container p{
+        font-size: 12px;
+    }
+
+    .quotes-container{
+        padding: 10px;
+    }
+
+    .quotes-container blockquote{
+        font-size: 14px;
+    }
+
+    .quotes-container p {
+        font-style: italic;
+        font-size: 12px;
+      }
+
+    .curiosities h2{
+        font-size: 18px;
+    }
+
+    .curiosities li{
+        font-size: 15px;
+    }
+
+    .moreinfo-containder h2{
+        font-size: 20px;
+    }
+
+    .moreinfo-containder p{
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 425px){
+    .main_title{
+        font-size: 25px;
+    }  
+    
+}
